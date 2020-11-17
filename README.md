@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 😄 Pronouns: he/him/his
 ## What am I doing?
 - 💼 Quicken Loans: Director of Engineering
-- [Leading Questions Podcast](https://leadingquestionspodcast.com)
+- 🎤 [Leading Questions Podcast](https://leadingquestionspodcast.com)
 
 ## Where to find me
-- My website: https://jerlance.com
-- Twitter: https://twitter.jerlance.com
-- Keybase.IO: https://keybase.jerlance.com
+- 🌎 My website: https://jerlance.com
+- 🐦 Twitter: https://twitter.jerlance.com
+- 🗝️ Keybase.IO: https://keybase.jerlance.com
 - 💬 Chat: https://chat.jerlance.com
-- Mastodon: https://mastodon.jerlance.com
+- 🐘 Mastodon: https://mastodon.jerlance.com
 - 📷 Instagram: https://instagram.jerlance.com
-- Facebook: https://facebook.jerlance.com
-- LinkedIn: https://linkedin.jerlance.com
+- ☹️ Facebook: https://facebook.jerlance.com
+- 📪 LinkedIn: https://linkedin.jerlance.com
