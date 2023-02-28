@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 😄 Pronouns: he/him/his
 ## What am I doing?
-- 💼 Quicken Loans: Director of Engineering
+- 💼 Architecture and Leadership
 - 🎤 [Leading Questions Podcast](https://leadingquestionspodcast.com)
 
 ## Where to find me
