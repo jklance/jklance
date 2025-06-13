@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 ## What am I doing?
 - 💼 Architecture and Leadership
 - 🎤 [Leading Questions Podcast](https://leadingquestionspodcast.com)
+  - On something of a hiatus
 
 ## Where to find me
 - 🌎 My website: https://jerlance.com
-- 🐦 Twitter: https://twitter.jerlance.com
 - 🗝️ Keybase.IO: https://keybase.jerlance.com
+- 🦋 Bluesky: https://bsky.app/profile/tehjer.bsky.social
+- 🎮 Discord: tehjer_
 - 💬 Chat: https://chat.jerlance.com
 - 🐘 Mastodon: https://mastodon.jerlance.com
 - 📷 Instagram: https://instagram.jerlance.com
